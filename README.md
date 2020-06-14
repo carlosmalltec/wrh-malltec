@@ -3,7 +3,7 @@
 Aplicativo de gestão de setores.
 
 ## Baixar APK
-<a href="screenshots/app.apk" download="whr-malltec.apk"title="Demonstração do aplicativo" alt="Demonstração do aplicativo">Baixar APK</a>
+<a href="screenshots/app.apk" download="whr-malltec.apk" title="Demonstração do aplicativo" alt="Demonstração do aplicativo">Baixar APK</a>
 
 ## Vídeo Apresentação
 
