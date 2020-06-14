@@ -1,32 +1,27 @@
-# br
+# WHR MALLTEC
 
-Aplicativo Pagga
+Aplicativo de gestão de setores.
 
-## Getting Started
+## Baixar APK
+<a href="screenshots/app.apk" title="Demonstração do aplicativo" alt="Demonstração do aplicativo">Baixar APK</a>
 
-This project is a starting point for a Flutter application.
+## Vídeo Apresentação
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# flutter_youtube_ui
-
-A Flutter application to showcase different UI features of the flutter sdk.
-
-## Tutorial Link
-Watch as i guide you step by step on how to build these interfaces and more. YouTube Playlist [here](https://www.youtube.com/watch?v=zSqicZ8Ky7A&list=PLkf3n4moMnEBLOE-BU2ESbZtZqIKRKJwU)
+<video width="320" height="240" controls>
+  <source src="screenshots/video-apresentacao.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+    Seu browser não tem suporte para tag vídeo.
+</video>
 
 ## Screenshots
+<img height="480px" src="screenshots/page-home.jpeg"> 
+<img height="480px" src="screenshots/detalhes.jpeg"> 
+<img height="480px" src="screenshots/menu-lateral.jpeg"> 
+<img height="480px" src="screenshots/menu-usuario.jpeg"> 
+<img height="480px" src="screenshots/page-biblioteca.jpeg"> 
+<img height="480px" src="screenshots/page-noticacao.jpeg"> 
+<img height="480px" src="screenshots/page-chat.jpeg"> 
 
-<img height="480px" src="screenshots/1.png"> <img height="480px" src="screenshots/2.png"> <img height="480px" src="screenshots/3.png"> <img height="480px" src="screenshots/5.png"> <img height="480px" src="screenshots/6.png"> <img height="480px" src="screenshots/4.png">
+## Mais sobre o framework FLUTTER
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[Documentação](https://flutter.io/).
