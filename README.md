@@ -14,7 +14,8 @@ Aplicativo de gestão de setores.
 </video>
 
 ## Screenshots
-<img height="480px" src="screenshots/page-home.jpeg"> <img height="480px" src="screenshots/detalhes.jpeg"> <img height="480px" src="screenshots/menu-lateral.jpeg"> <img height="480px" src="screenshots/menu-usuario.jpeg"> <img height="480px" src="screenshots/page-biblioteca.jpeg"> <img height="480px" src="screenshots/page-noticacao.jpeg">    <img height="480px" src="screenshots/page-chat.jpeg"> 
+<img height="480px" src="screenshots/page-home.jpeg">    <img height="480px" src="screenshots/detalhes.jpeg">    <img height="480px" src="screenshots/menu-lateral.jpeg">    
+<img height="480px" src="screenshots/menu-usuario.jpeg">    <img height="480px" src="screenshots/page-biblioteca.jpeg">    <img height="480px" src="screenshots/page-noticacao.jpeg">    <img height="480px" src="screenshots/page-chat.jpeg"> 
 
 ## Mais sobre o framework FLUTTER
 
